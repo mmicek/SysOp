@@ -1,0 +1,4 @@
+ls -l
+head
+head
+wc -w

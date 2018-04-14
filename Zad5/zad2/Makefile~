@@ -1,0 +1,7 @@
+
+CC = gcc -Wall -w
+
+output: 
+	$(CC) master.c -o master.exe
+	$(CC) main.c -o main.exe
+
